@@ -1,2 +1,4 @@
 # helloworld
-ggg
+mkdir helloworld
+cd hrlloworld
+git init
